@@ -42,7 +42,7 @@ class AuthorModel: ObservableObject {
                 return authors
             }
             catch {
-                print("error")
+                print("error we have a problem")
             }
         }
         
